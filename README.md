@@ -48,17 +48,23 @@ class Pokemon {
 let pikachu = Pokemon(nome: "Pikachu", tipo: "Elétrico", hp: 200)
 pikachu.exibirInfo()
 
-##📚 Referências
-Material Didático:
+# 📚 Referências
+
+
 Programiz - Classes e Objetos em Swift
 Apple - Documentação Oficial do Swift
 
-##👥 Equipe
-Nome: Isaac Mesquita Moreira RGM: 38211521
+# 👥 Equipe
+Nome	RGM
+Isaac Mesquita Moreira	38211521
 
-##✉️ Autor
+# 🎓 Informações Acadêmicas
+📌 Curso: Programação de Computadores - ADS
+👩‍🏫 Professora: Kadidja Valeria Reginaldo de Oliveira
+
+# ✉️ Autor
 📌 Nome: Isaac Mesquita Moreira
 📩 E-mail: isaacmesquitam6@gmail.com
 
-##🔗 Link do Repositório
+# 🔗 Link do Repositório
 📌 GitHub: Poo-em-Swift
