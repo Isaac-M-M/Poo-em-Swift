@@ -25,7 +25,7 @@ Este material é voltado para estudantes iniciantes em programação que desejam
 
 Aqui está um exemplo de como criar uma **classe `Pokemon` em Swift**:  
 
-```swift
+``swift
 class Pokemon {
     var nome: String
     var tipo: String
