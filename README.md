@@ -58,10 +58,12 @@ Apple - Documentação Oficial do Swift
 Nome: Isaac Mesquita Moreira RGM: 38211521
 
 # 🎓 Informações Acadêmicas
+
 📌 Curso: Programação de Computadores - ADS
 👩‍🏫 Professora: Kadidja Valeria Reginaldo de Oliveira
 
 # ✉️ Autor
+
 📌 Nome: Isaac Mesquita Moreira
 📩 E-mail: isaacmesquitam6@gmail.com
 
