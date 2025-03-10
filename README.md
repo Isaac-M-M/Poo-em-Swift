@@ -55,8 +55,7 @@ Programiz - Classes e Objetos em Swift
 Apple - Documentação Oficial do Swift
 
 # 👥 Equipe
-Nome	RGM
-Isaac Mesquita Moreira	38211521
+Nome: Isaac Mesquita Moreira RGM: 38211521
 
 # 🎓 Informações Acadêmicas
 📌 Curso: Programação de Computadores - ADS
